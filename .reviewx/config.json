@@ -1,0 +1,4 @@
+{
+  "project": "sanketsao-reviewx-pages-test",
+  "publish": { "endpoint": "http://localhost:4400" }
+}
